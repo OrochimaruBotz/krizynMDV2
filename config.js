@@ -11,7 +11,7 @@ global.mods = ['6288804947282']
 global.prems = ['6288804947282'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Yamato'
+global.nameowner = 'Humanz'
 global.numberowner = '6288804947282'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/OrochimaruBotz'
@@ -20,7 +20,7 @@ global.pulsa = '088804947282'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'YamatoBotzMD'
+global.namebot = 'GojoBotzMD'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/yamatoo'
