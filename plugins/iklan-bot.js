@@ -4,16 +4,16 @@ let handler = async(m, { conn }) => {
     let kontol = `
 ╭─────[ *STORE BOT* ]─────✧
 ┴
-│ *STORE ArullBotzMD*
+│ *STORE GojoBotzMD*
 ┬
 ╰──────────···`.trim()
   const button = {
-        buttonText: '🛒STORE ArullBotzMD 🛒',
+        buttonText: '🛒STORE GojoBotzMD 🛒',
         description: kontol,
-        sections:  [{title: "STORE ArullBotzMD", rows: [
+        sections:  [{title: "STORE GojoBotzMD", rows: [
         {title: 'Menu utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Sewa satbotsss', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:",
-        {title: 'RULES', description: "rules ArullBotzMD", rowId:".rules"},
+        {title: 'RULES', description: "rules GojoBotzMD", rowId:".rules"},
        ] }],
         listType: 1
        }
