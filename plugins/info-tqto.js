@@ -17,6 +17,8 @@ BIG THANKS TO
     📮 https://github.com/Hyzerr
 ⤿ Krizyn Ofc
     📮 https://github.com/krizynofc
+⤿ Humanz
+    📮 https://github.com/OrochimaruBotz
 ⤿ ArullOfc
     📮 https://github.com/Warikrr
 THANKS PARA DONASI YANG TERHORMAT
