@@ -12,7 +12,7 @@ let handler = async(m, { conn }) => {
         description: kontol,
         sections:  [{title: "STORE GojoBotzMD", rows: [
         {title: 'Menu utama', description: "Kembali ke Menu Utama", rowId:".?"},
-        {title: 'Sewa satbotsss', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:",
+        {title: 'Sewa GojoBotzMD', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:",
         {title: 'RULES', description: "rules GojoBotzMD", rowId:".rules"},
        ] }],
         listType: 1
